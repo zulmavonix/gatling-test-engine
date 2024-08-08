@@ -1,0 +1,7 @@
+{
+  "symbol": "BTC-USDT",
+  "orderType": "MARKET",
+  "side" :"BUY",
+  "amount": 0.2,
+  "amountCoinType": "QUOTE_COIN"
+}
